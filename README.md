@@ -22,7 +22,7 @@ Fully functional example is included in the `TestApplication` Application provid
 
 ## Available Voices to request from AWS Polly
 
-When requesting a voice, use the name on the right of the dash in lowercase. For example, if you desire to use `English (en-US) - Joey`, request `joey`
+When requesting a voice, use the name on the right of the dash. For example, if you desire to use `English (en-US) - Joey`, request `Joey`
 
    1. Welsh - Gwyneth
    2. Turkish  - Filiz
